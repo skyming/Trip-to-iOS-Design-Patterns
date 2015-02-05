@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E562A06A-8887-4E5F-BFA3-78970FA8B2B8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BlueLibrary</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3F3A5B49A0CCC5847DBFA831C3BE0F97C5858CA1</key>
+		<string>github.com:skyming/Trip-to-IOS-Design-Patterns.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SimpleCode/BlueLibrary/BlueLibrary.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3F3A5B49A0CCC5847DBFA831C3BE0F97C5858CA1</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:skyming/Trip-to-IOS-Design-Patterns.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3F3A5B49A0CCC5847DBFA831C3BE0F97C5858CA1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3F3A5B49A0CCC5847DBFA831C3BE0F97C5858CA1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Trip-to-IOS-Design-Patterns</string>
+		</dict>
+	</array>
+</dict>
+</plist>
