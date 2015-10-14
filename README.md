@@ -3,10 +3,12 @@ IOS 设计模式相关资料整理
 
 ####史上最全设计模式导学目录（完整版） 
 > 强烈推荐，推荐指数五颗星，刘伟老师力作，讲的非常好，通俗易懂，而且举例的应用场景也非常恰当，遗憾的是样例代码是 Java 写的，不过模式是通用的。
+
 http://blog.csdn.net/lovelion/article/details/17517213
 
 ####图说设计模式
 > 推荐指数4颗星，讲了不少UML的相关知识，能更好的理解设计模式中时序图等Mac下的UML工具推荐 StarUML ,做的也不错。
+
 http://design-patterns.readthedocs.org/zh_CN/latest/index.html
 
 ####经典图书
@@ -55,17 +57,17 @@ https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/CocoaF
 ####实战学习
 最后推荐些可以帮助理解实战的开源项目：
 
-V2EX - V2EX iOS客户端，已上线项目
+* V2EX - V2EX iOS客户端，已上线项目
 
-https://github.com/singro/v2ex
+	https://github.com/singro/v2ex
 
-Firox-IOS - Firox iOS客户端，用Swift写的
+* Firox-IOS - Firox iOS客户端，用Swift写的
 
-https://github.com/mozilla/firefox-ios
+	https://github.com/mozilla/firefox-ios
 
-Telegram - 一个非常牛XXX的开源社交项目
+* Telegram - 一个非常牛XXX的开源社交项目
 
-https://github.com/peter-iakovlev/Telegram
+	https://github.com/peter-iakovlev/Telegram
 
 ####其他资源：
 * objccn - 架构 - 强烈推荐
