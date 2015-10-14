@@ -54,30 +54,29 @@ https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/CocoaF
     http://download.csdn.net/detail/sc_cheng/2981710
 
 ####InfoQ
->iOS应用架构谈（一）：架构设计的方法论
+* iOS应用架构谈（一）：架构设计的方法论
 
   http://www.infoq.com/cn/articles/ios-app-arch-part-01/
 
->iOS应用架构谈（二）：View层的组织和调用方案（上）
+* iOS应用架构谈（二）：View层的组织和调用方案（上）
 
   http://www.infoq.com/cn/articles/ios-app-arch-2-1
 
->iOS应用架构谈（二）：View层的组织和调用方案（中）
+* iOS应用架构谈（二）：View层的组织和调用方案（中）
 
   http://www.infoq.com/cn/articles/ios-app-arch-2-2
 
 
->iOS应用架构谈（三）：View层的组织和调用方案（下）
+* iOS应用架构谈（三）：View层的组织和调用方案（下）
 
   http://www.infoq.com/cn/articles/ios-app-arch-2-3
 
 
->iOS应用架构谈（三）：网络层设计方案(上)
+* iOS应用架构谈（三）：网络层设计方案(上)
 
   http://www.infoq.com/cn/articles/ios-app-arch-3-1
 
-
->怎么面试架构师
+* 怎么面试架构师
 
   http://www.cocoachina.com/programmer/20150617/12170.html
 
