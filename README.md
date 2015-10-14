@@ -15,53 +15,69 @@ http://design-patterns.readthedocs.org/zh_CN/latest/index.html
 
 ####伯乐在线：
 * iOS设计模式之一：MVC模式和单例模式
+
     http://blog.jobbole.com/48115/
     
 * iOS设计模式之二：外观模式和装饰器模式
+
     http://blog.jobbole.com/48166/
     
 * iOS设计模式之三：适配器模式和观察者模式
+
     http://blog.jobbole.com/48254/
 
 * iOS设计模式之四：备忘录模式和命令模式
+
     http://blog.jobbole.com/48179/
 
 * iOS设计模式之观察者模式
+
     http://blog.jobbole.com/55505/
     
 * iOS设计模式反思之单例模式的进化
-    blog.jobbole.com/56439/
+
+    http://blog.jobbole.com/56439/
     
 * 关于 23 种设计模式的有趣见解
+
     http://blog.jobbole.com/20496/
 
 ####官网资料：
 * Cocoa Design Patterns 
+
 https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaDesignPatterns/CocoaDesignPatterns.html#//apple_ref/doc/uid/TP40002974-CH6-SW6
 
 * 中文翻译：
+
     http://download.csdn.net/detail/sc_cheng/2981710
 
 
 ####实战学习
 最后推荐些可以帮助理解实战的开源项目：
+
 V2EX - V2EX iOS客户端，已上线项目
+
 https://github.com/singro/v2ex
 
 Firox-IOS - Firox iOS客户端，用Swift写的
+
 https://github.com/mozilla/firefox-ios
 
 Telegram - 一个非常牛XXX的开源社交项目
+
 https://github.com/peter-iakovlev/Telegram
 
 ####其他资源：
 * objccn - 架构 - 强烈推荐
+
     http://objccn.io/issue-13/
     
 * EasyIOS - 
+
     https://github.com/zhuchaowe/EasyIOS
     
 * 移动App架构设计
+
     https://github.com/uxyheaven/NativeAppFrameworkDesign
 
 
