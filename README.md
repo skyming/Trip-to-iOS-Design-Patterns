@@ -1,18 +1,28 @@
 # Trip-to-IOS-Design-Patterns
 IOS 设计模式相关资料整理
 
-####史上最全设计模式导学目录（完整版） 
+####[史上最全设计模式导学目录（完整版)](http://blog.csdn.net/lovelion/article/details/17517213) 
 > 强烈推荐，推荐指数五颗星，刘伟老师力作，讲的非常好，通俗易懂，而且举例的应用场景也非常恰当，遗憾的是样例代码是 Java 写的，不过模式是通用的。
 
-http://blog.csdn.net/lovelion/article/details/17517213
-
-####图说设计模式
+####[图说设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/index.html)
 > 推荐指数4颗星，讲了不少UML的相关知识，能更好的理解设计模式中时序图等Mac下的UML工具推荐 StarUML ,做的也不错。
 
-http://design-patterns.readthedocs.org/zh_CN/latest/index.html
-
 ####经典图书
->《Head First设计模式》、Gof《设计模式》，这样顺着看完，真实酣畅淋漓，痛快，爽哉，最后会感叹，原来写的代码真是。。。
+>《Head First设计模式》、《大话设计模式》、Gof《设计模式》，这样顺着看完，真实酣畅淋漓，痛快，爽哉，最后会感叹，原来写的代码真是。。。
+
+####InfoQ - iOS应用架构谈 - 推荐指数 5星
+* [iOS应用架构谈（一）：架构设计的方法论](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
+
+* [iOS应用架构谈（二）：View层的组织和调用方案](http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html)
+
+* [iOS应用架构谈（三）：网络层设计方案](http://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html)
+
+* [iOS应用架构谈（四）：本地持久化方案及动态部署](http://casatwy.com/iosying-yong-jia-gou-tan-ben-di-chi-jiu-hua-fang-an-ji-dong-tai-bu-shu.html)
+
+
+
+####IM架构梳理
+http://blog.csdn.net/skymingst/article/details/49448717
 
 
 ####伯乐在线：
@@ -53,32 +63,6 @@ https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/CocoaF
 
     http://download.csdn.net/detail/sc_cheng/2981710
 
-####InfoQ
-* iOS应用架构谈（一）：架构设计的方法论
-
-  http://www.infoq.com/cn/articles/ios-app-arch-part-01/
-
-* iOS应用架构谈（二）：View层的组织和调用方案（上）
-
-  http://www.infoq.com/cn/articles/ios-app-arch-2-1
-
-* iOS应用架构谈（二）：View层的组织和调用方案（中）
-
-  http://www.infoq.com/cn/articles/ios-app-arch-2-2
-
-
-* iOS应用架构谈（三）：View层的组织和调用方案（下）
-
-  http://www.infoq.com/cn/articles/ios-app-arch-2-3
-
-
-* iOS应用架构谈（三）：网络层设计方案(上)
-
-  http://www.infoq.com/cn/articles/ios-app-arch-3-1
-
-* 怎么面试架构师
-
-  http://www.cocoachina.com/programmer/20150617/12170.html
 
 ####实战学习
 最后推荐些可以帮助理解实战的开源项目：
@@ -99,7 +83,11 @@ https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/CocoaF
 * objccn - 架构 - 强烈推荐
 
     http://objccn.io/issue-13/
-    
+ 
+* 怎么面试架构师
+
+  http://www.cocoachina.com/programmer/20150617/12170.html
+
 * EasyIOS - 
 
     https://github.com/zhuchaowe/EasyIOS
