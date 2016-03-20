@@ -20,12 +20,14 @@ IOS 设计模式相关资料整理
 
 * [iOS应用架构谈（四）：本地持久化方案及动态部署](http://casatwy.com/iosying-yong-jia-gou-tan-ben-di-chi-jiu-hua-fang-an-ji-dong-tai-bu-shu.html)
 
+* [饿了么移动APP的架构演进](https://www.sdk.cn/news/2023)
+
+
 #### 组件化设计 - casatwy VS Limboy
 * [蘑菇街 App 的组件化之路](http://limboy.me/ios/2016/03/10/mgj-components.html)
-
 * [蘑菇街 App 的组件化之路·续](http://limboy.me/ios/2016/03/14/mgj-components-continued.html)
-
-* [iOS应用架构谈（三）：组件化方案](http://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html)
+* [iOS应用架构谈（五）：组件化方案](http://casatwy.com/iOS-Modulization.html)
+* [iOS 组件化方案探索](http://blog.cnbang.net/tech/3080/)
 
 
 ####IM架构梳理
