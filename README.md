@@ -13,14 +13,14 @@ IOS 设计模式相关资料整理
 
 #### InfoQ - iOS应用架构谈 - 推荐指数 5星
 * [iOS应用架构谈（一）：架构设计的方法论](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
-
 * [iOS应用架构谈（二）：View层的组织和调用方案](http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html)
-
 * [iOS应用架构谈（三）：网络层设计方案](http://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html)
-
 * [iOS应用架构谈（四）：本地持久化方案及动态部署](http://casatwy.com/iosying-yong-jia-gou-tan-ben-di-chi-jiu-hua-fang-an-ji-dong-tai-bu-shu.html)
-
+ 
+#### App 架构设计实践
 * [饿了么移动APP的架构演进](https://www.sdk.cn/news/2023)
+* [滴滴iOS客户端的架构演变之路](http://www.infoq.com/cn/news/2016/03/lixianhui-interview)
+* [携程移动App架构优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=403412672&idx=1&sn=2cceb873ee4640830aad3261ae177df5&scene=0&key=710a5d99946419d9ba63d1d480eb3f0c2d49be9d244f34e460226b2f4caaa02565fc4d16af8f64ca79085f4db276e89f&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=JxdNVNrS%2BerOsvJdjWQGHAqgDkV2%2FmL9OHAETsCT%2Bvp0%2B%2FLiXasOwpgYIsgQQn8O)[PPT](http://www.stuq.org/ppt/frame_show/659/4c79d4c7eb2061f8790b5e7e6fe42703#/1)
 
 
 #### 组件化设计 - casatwy VS Limboy
