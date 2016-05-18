@@ -21,6 +21,8 @@ IOS 设计模式相关资料整理
 * [饿了么移动APP的架构演进](https://www.sdk.cn/news/2023)
 * [滴滴iOS客户端的架构演变之路](http://www.infoq.com/cn/news/2016/03/lixianhui-interview)
 * [携程移动App架构优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=403412672&idx=1&sn=2cceb873ee4640830aad3261ae177df5&scene=0&key=710a5d99946419d9ba63d1d480eb3f0c2d49be9d244f34e460226b2f4caaa02565fc4d16af8f64ca79085f4db276e89f&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=JxdNVNrS%2BerOsvJdjWQGHAqgDkV2%2FmL9OHAETsCT%2Bvp0%2B%2FLiXasOwpgYIsgQQn8O)[PPT](http://www.stuq.org/ppt/frame_show/659/4c79d4c7eb2061f8790b5e7e6fe42703#/1)
+* [新浪微博iOS客户端架构与优化之路](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112273&idx=1&sn=893a66a04e541a99b7bc4d7cf227e2f7#rd)
+* [Weex详解：移动端高性能动态化方案](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112231&idx=1&sn=4578ff1009ee774093c45a3d8c19dd58#rd)
 
 
 #### 组件化设计 - casatwy VS Limboy
