@@ -8,11 +8,10 @@ IOS 设计模式相关资料整理
 > 推荐指数4颗星，讲了不少UML的相关知识，能更好的理解设计模式中时序图等Mac下的UML工具推荐 StarUML ,做的也不错。
 
 #### 经典图书
->《Head First设计模式》
-  根据实际需求例子，分析设计的演进、深入浅出，可惜实例语言是Java。[纸质版-亚马逊](https://www.amazon.cn/Head-First%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%BC%97%E9%87%8C%E6%9B%BC/dp/B0011FBU34/ref=sr_1_1?ie=UTF8&qid=1464418055&sr=8-1&keywords=head+first)[电子版PDF-CSDN](http://download.csdn.net/detail/kiratianyi/7471435)
-  《大话设计模式》[纸质版-亚马逊](https://www.amazon.cn/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E7%A8%8B%E6%9D%B0/dp/B0011FHN5S/ref=sr_1_1?ie=UTF8&qid=1464418409&sr=8-1&keywords=%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)[源码及电子书-CSDN](http://download.csdn.net/detail/yousuosi/4364766)
-  Gof《设计模式》，这样顺着看完，真实酣畅淋漓，痛快，爽哉，最后会感叹，原来写的代码真是。。。
-
+* 《Head First设计模式》[纸质版-亚马逊](https://www.amazon.cn/Head-First%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%BC%97%E9%87%8C%E6%9B%BC/dp/B0011FBU34/ref=sr_1_1?ie=UTF8&qid=1464418055&sr=8-1&keywords=head+first)[电子版-PDF-CSDN](http://download.csdn.net/detail/kiratianyi/7471435)
+* 《大话设计模式》[纸质版-亚马逊](https://www.amazon.cn/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E7%A8%8B%E6%9D%B0/dp/B0011FHN5S/ref=sr_1_1?ie=UTF8&qid=1464418409&sr=8-1&keywords=%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)[源码及电子书-CSDN](http://download.csdn.net/detail/yousuosi/4364766)
+*  Gof《设计模式》[纸质版-亚马逊](https://www.amazon.cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%9B%E4%B9%A6-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%8F%AF%E5%A4%8D%E7%94%A8%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%9F%BA%E7%A1%80-Erich-Gamma/dp/B001130JN8/ref=sr_1_1?ie=UTF8&qid=1464419128&sr=8-1&keywords=%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)[电子书-PDF-CSDN](http://download.csdn.net/detail/trendgrucee/4795224)
+*  Objective-C编程之道：iOS 设计模式 [纸质书-亚马逊](https://www.amazon.cn/Objective-C%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93-iOS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E8%A7%A3%E6%9E%90-%E9%92%9F%E5%86%A0%E8%B4%A4/dp/B0065V3ALO/ref=sr_1_1?ie=UTF8&qid=1464418960&sr=8-1&keywords=Objective-C%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93%EF%BC%9AiOS+%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)[电子书及源码](http://download.csdn.net/detail/qiaokeli123456789/6691097)
 
 #### InfoQ - iOS应用架构谈 - 推荐指数 5星
 * [iOS应用架构谈（一）：架构设计的方法论](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
