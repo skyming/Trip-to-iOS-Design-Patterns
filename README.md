@@ -34,7 +34,7 @@ IOS 设计模式相关资料整理
 * [iOS应用架构谈（五）：组件化方案](http://casatwy.com/iOS-Modulization.html)
 * [iOS 组件化方案探索](http://blog.cnbang.net/tech/3080/)
 * [糯米移动组件架构演进之路](http://chuansong.me/n/320688951236)
-
+* [豆瓣App的模块化实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112821&idx=1&sn=2987ba2c9d68e3982e795d9eeb15f82b&chksm=844c6ca8b33be5be42e673ff2a9087628b0d9fab5e5a403d4bd346b134f4ffe110e423967c3e&scene=0#rd)
 
 ####IM架构梳理
 * [IM架构梳理](http://blog.csdn.net/skymingst/article/details/49448717)
