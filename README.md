@@ -36,7 +36,7 @@ IOS 设计模式相关资料整理
 * [糯米移动组件架构演进之路](http://chuansong.me/n/320688951236)
 * [滴滴的组件化实践与优化](http://www.infoq.com/cn/articles/xiaojukeji-component-practice-and-optimization)
 * [豆瓣App的模块化实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112821&idx=1&sn=2987ba2c9d68e3982e795d9eeb15f82b&chksm=844c6ca8b33be5be42e673ff2a9087628b0d9fab5e5a403d4bd346b134f4ffe110e423967c3e&scene=0#rd)
-* [iOS App组件化开发实践](http://www.infoq.com/cn/articles/xiaojukeji-component-practice-and-optimization)
+* [iOS App组件化开发实践](http://www.infoq.com/cn/articles/ios-app-component-development-practice?utm_source=articles_about_mobile&utm_medium=link&utm_campaign=mobile)
 
 ####IM架构梳理
 * [IM架构梳理](http://blog.csdn.net/skymingst/article/details/49448717)
