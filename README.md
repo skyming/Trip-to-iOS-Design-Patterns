@@ -1,18 +1,39 @@
-# Trip-to-IOS-Design-Patterns
-IOS 设计模式相关资料整理
+# Trip-to-iOS-Design-Patterns
+iOS 设计模式相关资料整理
+随着写代码时间变长，业务逻辑越来越复杂，项目就会变的越来越臃肿，业务的拓展、Bug Fix将会越来越难进展。接着进行的就是重构工作，对重构而已，那设计模式、架构、当前的业务情况、将来可能遇到的需求 将是下一步的思考。本文将从设计模式、架构、实践三个方面梳理 iOS 架构设计。
 
-#### [史上最全设计模式导学目录（完整版)](http://blog.csdn.net/lovelion/article/details/17517213) 
-> 强烈推荐，推荐指数五颗星，刘伟老师力作，讲的非常好，通俗易懂，而且举例的应用场景也非常恰当，遗憾的是样例代码是 Java 写的，不过模式是通用的。
-
-#### [图说设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/index.html)
-> 推荐指数4颗星，讲了不少UML的相关知识，能更好的理解设计模式中时序图等Mac下的UML工具推荐 StarUML ,做的也不错。
-
-#### 经典图书
+#### 设计模式 经典图书系列
 * 《Head First设计模式》[纸质版-亚马逊](https://www.amazon.cn/Head-First%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%BC%97%E9%87%8C%E6%9B%BC/dp/B0011FBU34/ref=sr_1_1?ie=UTF8&qid=1464418055&sr=8-1&keywords=head+first)[电子版-PDF-CSDN](http://download.csdn.net/detail/kiratianyi/7471435)
 * 《大话设计模式》[纸质版-亚马逊](https://www.amazon.cn/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E7%A8%8B%E6%9D%B0/dp/B0011FHN5S/ref=sr_1_1?ie=UTF8&qid=1464418409&sr=8-1&keywords=%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)[源码及电子书-CSDN](http://download.csdn.net/detail/yousuosi/4364766)
-*  Gof《设计模式》[纸质版-亚马逊](https://www.amazon.cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%9B%E4%B9%A6-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%8F%AF%E5%A4%8D%E7%94%A8%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%9F%BA%E7%A1%80-Erich-Gamma/dp/B001130JN8/ref=sr_1_1?ie=UTF8&qid=1464419128&sr=8-1&keywords=%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)[电子书-PDF-CSDN](http://download.csdn.net/detail/trendgrucee/4795224)
+* 《设计模式》Gof [纸质版-亚马逊](https://www.amazon.cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%9B%E4%B9%A6-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%8F%AF%E5%A4%8D%E7%94%A8%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%9F%BA%E7%A1%80-Erich-Gamma/dp/B001130JN8/ref=sr_1_1?ie=UTF8&qid=1464419128&sr=8-1&keywords=%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)[电子书-PDF-CSDN](http://download.csdn.net/detail/trendgrucee/4795224)
 *  Objective-C编程之道：iOS 设计模式[纸质书-亚马逊](https://www.amazon.cn/Objective-C%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93-iOS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E8%A7%A3%E6%9E%90-%E9%92%9F%E5%86%A0%E8%B4%A4/dp/B0065V3ALO/ref=sr_1_1?ie=UTF8&qid=1464418960&sr=8-1&keywords=Objective-C%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93%EF%BC%9AiOS+%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)[电子书及源码](http://download.csdn.net/detail/qiaokeli123456789/6691097)
 *  [IOS设计模式探索(大话设计模式)](https://github.com/huang303513/Design-Pattern-For-iOS)
+
+#### 设计模式 资源推荐
+* [IOS设计模式探索(大话设计模式)](https://github.com/huang303513/Design-Pattern-For-iOS)
+> Github上不错的资源，作者给出了大话设计模式 Objc 版的代码，底部推荐的 设计模式 4问答及 Cocoa设计如何设计模式也非常不错
+
+* [史上最全设计模式导学目录（完整版)](http://blog.csdn.net/lovelion/article/details/17517213) 
+> 强烈推荐，推荐指数五颗星，刘伟老师力作，讲的非常好，通俗易懂，而且举例的应用场景也非常恰当，遗憾的是样例代码是 Java 写的，不过模式是通用的。
+
+* [图说设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/index.html)
+> 推荐指数4颗星，讲了不少UML的相关知识，能更好的理解设计模式中时序图等Mac下的UML工具推荐 StarUML ,做的也不错。
+
+####伯乐在线-翻译Ray Wenderlich文章：
+
+* [iOS设计模式之一：MVC模式和单例模式](http://blog.jobbole.com/48115/)
+* [iOS设计模式之二：外观模式和装饰器模式](http://blog.jobbole.com/48166/)
+* [iOS设计模式之三：适配器模式和观察者模式](http://blog.jobbole.com/48254/)
+* [iOS设计模式之四：备忘录模式和命令模式](http://blog.jobbole.com/48179/)
+* [iOS设计模式之观察者模式](http://blog.jobbole.com/55505/)
+* [iOS设计模式反思之单例模式的进化-非翻译](http://blog.jobbole.com/56439/)
+* [关于 23 种设计模式的有趣见解-非翻译](http://blog.jobbole.com/20496/)
+
+
+####官网资料：
+* [Cocoa Design Patterns](https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaDesignPatterns/CocoaDesignPatterns.html#//apple_ref/doc/uid/TP40002974-CH6-SW6)
+* [Cocoa Design Patterns 中文翻译下载地址](http://download.csdn.net/detail/sc_cheng/2981710)
+
 
 #### InfoQ - iOS应用架构谈 - 推荐指数 5星
 * [iOS应用架构谈（一）：架构设计的方法论](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
@@ -48,19 +69,6 @@ IOS 设计模式相关资料整理
 * [微博与im消息实现对比[随想]](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=205117508&idx=1&sn=71eecf04581e68deee4a44f7786309f5&scene=1&srcid=0317jpSQhhxbYvM2Kz6vlhOK&key=710a5d99946419d9c798c52d8b5dd4f67c1c4b144bb07217906e72260d353ac92559a0451d7548f74cc70ca9e0223637&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
 
 
-####伯乐在线-翻译Ray Wenderlich文章：
-
-* [iOS设计模式之一：MVC模式和单例模式](http://blog.jobbole.com/48115/)
-* [iOS设计模式之二：外观模式和装饰器模式](http://blog.jobbole.com/48166/)
-* [iOS设计模式之三：适配器模式和观察者模式](http://blog.jobbole.com/48254/)
-* [iOS设计模式之四：备忘录模式和命令模式](http://blog.jobbole.com/48179/)
-* [iOS设计模式之观察者模式](http://blog.jobbole.com/55505/)
-* [iOS设计模式反思之单例模式的进化-非翻译](http://blog.jobbole.com/56439/)
-* [关于 23 种设计模式的有趣见解-非翻译](http://blog.jobbole.com/20496/)
-
-####官网资料：
-* [Cocoa Design Patterns](https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaDesignPatterns/CocoaDesignPatterns.html#//apple_ref/doc/uid/TP40002974-CH6-SW6)
-* [Cocoa Design Patterns 中文翻译下载地址](http://download.csdn.net/detail/sc_cheng/2981710)
 
 
 ####实战学习
