@@ -47,6 +47,7 @@ iOS 设计模式相关资料整理
 * [新浪微博iOS客户端架构与优化之路](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112273&idx=1&sn=893a66a04e541a99b7bc4d7cf227e2f7#rd)
 * [Weex详解：移动端高性能动态化方案](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112231&idx=1&sn=4578ff1009ee774093c45a3d8c19dd58#rd)
 * [覃超：Facebook iOS App技术演化十年之路](http://www.infoq.com/cn/articles/evolution-of-facebook-ios-app-ten-years-technology)
+* [天弘基金移动App客户端架构优化之路](http://blog.csdn.net/yaoyu/article/details/70184539)
 
 #### 组件化设计 - casatwy VS Limboy
 * [蘑菇街 App 的组件化之路](http://limboy.me/ios/2016/03/10/mgj-components.html)
