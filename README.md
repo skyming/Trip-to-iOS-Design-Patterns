@@ -19,7 +19,7 @@ iOS 设计模式相关资料整理
 * [图说设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/index.html)
 > 推荐指数4颗星，讲了不少UML的相关知识，能更好的理解设计模式中时序图等Mac下的UML工具推荐 StarUML ,做的也不错。
 
-####伯乐在线-翻译Ray Wenderlich文章：
+#### 伯乐在线-翻译Ray Wenderlich文章：
 
 * [iOS设计模式之一：MVC模式和单例模式](http://blog.jobbole.com/48115/)
 * [iOS设计模式之二：外观模式和装饰器模式](http://blog.jobbole.com/48166/)
@@ -30,7 +30,7 @@ iOS 设计模式相关资料整理
 * [关于 23 种设计模式的有趣见解-非翻译](http://blog.jobbole.com/20496/)
 
 
-####官网资料：
+#### 官网资料：
 * [Cocoa Design Patterns](https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaDesignPatterns/CocoaDesignPatterns.html#//apple_ref/doc/uid/TP40002974-CH6-SW6)
 * [Cocoa Design Patterns 中文翻译下载地址](http://download.csdn.net/detail/sc_cheng/2981710)
 
@@ -58,6 +58,7 @@ iOS 设计模式相关资料整理
 * [滴滴的组件化实践与优化](http://www.infoq.com/cn/articles/xiaojukeji-component-practice-and-optimization)
 * [豆瓣App的模块化实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112821&idx=1&sn=2987ba2c9d68e3982e795d9eeb15f82b&chksm=844c6ca8b33be5be42e673ff2a9087628b0d9fab5e5a403d4bd346b134f4ffe110e423967c3e&scene=0#rd)
 * [iOS App组件化开发实践](http://www.infoq.com/cn/articles/ios-app-component-development-practice?utm_source=articles_about_mobile&utm_medium=link&utm_campaign=mobile)
+* [58 同城 iOS 客户端组件化演变历程](http://mp.weixin.qq.com/s/PbOh-l0E4bD3HoKj0GzYWQ)
 
 ####IM架构梳理
 * [IM架构梳理](http://blog.csdn.net/skymingst/article/details/49448717)
