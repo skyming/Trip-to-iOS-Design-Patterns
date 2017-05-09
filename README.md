@@ -49,6 +49,8 @@ iOS 设计模式相关资料整理
 * [覃超：Facebook iOS App技术演化十年之路](http://www.infoq.com/cn/articles/evolution-of-facebook-ios-app-ten-years-technology)
 * [天弘基金移动App客户端架构优化之路](http://blog.csdn.net/yaoyu/article/details/70184539)
 * [Service Oriented 的 iOS 应用架构](http://tech.glowing.com/cn/service-oriented-ios-architecture/)
+* [猿题库 iOS 客户端架构设计](http://gracelancy.com/blog/2016/01/06/ape-ios-arch-design/)
+* [QCon旧金山演讲总结：阿里无线技术架构演进](http://www.infoq.com/cn/articles/alibaba-mobile-infrastructure)
 
 #### 组件化设计 - casatwy VS Limboy
 * [蘑菇街 App 的组件化之路](http://limboy.me/tech/2016/03/10/mgj-components.html)
@@ -88,6 +90,7 @@ iOS 设计模式相关资料整理
 * [EasyIOS](https://github.com/zhuchaowe/EasyIOS)
 * [移动App架构设计](https://github.com/uxyheaven/NativeAppFrameworkDesign)
 * [探索 Swift 中的 MVC-N 模式](https://realm.io/cn/news/slug-marcus-zarra-exploring-mvcn-swift/?utm_source=tuicool&utm_medium=referral)
+* [MVVMFramework](https://github.com/lovemo/MVVMFramework)
 
 
 
