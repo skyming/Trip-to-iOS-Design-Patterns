@@ -14,15 +14,15 @@ iOS 设计模式相关资料整理
 
 #### 设计模式 资源推荐
 
-* [Cocoa Design Patterns](https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaDesignPatterns/CocoaDesignPatterns.html#//apple_ref/doc/uid/TP40002974-CH6-SW6)
-
-* [Cocoa Design Patterns 中文翻译下载地址](http://download.csdn.net/detail/sc_cheng/2981710)
+* Cocoa Design Patterns  [官方资料](https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaDesignPatterns/CocoaDesignPatterns.html#//apple_ref/doc/uid/TP40002974-CH6-SW6)  [中文翻译版](http://download.csdn.net/detail/sc_cheng/2981710)
 
 * [史上最全设计模式导学目录（完整版)](http://blog.csdn.net/lovelion/article/details/17517213) 
 > 强烈推荐，推荐指数五颗星，刘伟老师力作，讲的非常好，通俗易懂，而且举例的应用场景也非常恰当，遗憾的是样例代码是 Java 写的，不过模式是通用的。
 
 * [图说设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/index.html)
 > 推荐指数4颗星，讲了不少UML的相关知识，能更好的理解设计模式中时序图等Mac下的UML工具推荐 StarUML ,做的也不错。
+
+* [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 
 #### 伯乐在线-翻译Ray Wenderlich文章：
 
@@ -62,7 +62,7 @@ iOS 设计模式相关资料整理
 * [58 同城 iOS 客户端组件化演变历程](http://mp.weixin.qq.com/s/PbOh-l0E4bD3HoKj0GzYWQ)
 * [手机淘宝客户端架构探索实践](https://yq.aliyun.com/articles/129)
 
-####IM架构梳理
+#### IM架构梳理
 * [IM架构梳理](http://blog.csdn.net/skymingst/article/details/49448717)
 * [58到家消息系统设计与开发实践](https://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=402441278&idx=1&sn=af82781e3e6b694d82ac8454dbe3ae67&scene=0&key=710a5d99946419d9ebeb6a76103f5b3c9a2a96d61dd040e7eaacca508005e842656a35d9b9664ec603be12ce0c3f25c7&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
 * [im协议设计选型（上）](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=205775353&idx=1&sn=ecc1f32ec9585f2c7672a27dfbc726ca&scene=1&srcid=0317WNL1c9K3dhx6rqsrhXL5&key=710a5d99946419d970963f96a056ab527d7e0a5ec70e2094cbb32922797076e77c9282e8ead417792c53ca5798beac51&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
@@ -72,9 +72,7 @@ iOS 设计模式相关资料整理
 * [微博与im消息实现对比[随想]](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=205117508&idx=1&sn=71eecf04581e68deee4a44f7786309f5&scene=1&srcid=0317jpSQhhxbYvM2Kz6vlhOK&key=710a5d99946419d9c798c52d8b5dd4f67c1c4b144bb07217906e72260d353ac92559a0451d7548f74cc70ca9e0223637&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
 
 
-
-
-####实战学习
+#### 实战学习
 最后推荐些可以帮助理解实战的开源项目：
 
 * [V2EX - V2EX iOS客户端，已上线项目](https://github.com/singro/v2ex)
@@ -83,7 +81,7 @@ iOS 设计模式相关资料整理
 * [网易云信开源UI组件](https://github.com/netease-im/NIM_iOS_Demo)
 
 
-####其他资源：
+#### 其他资源：
 
 * [objccn - 架构 - 强烈推荐](http://objccn.io/issue-13/)
 * [怎么面试架构师](http://www.cocoachina.com/programmer/20150617/12170.html)
