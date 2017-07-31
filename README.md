@@ -52,7 +52,7 @@ iOS 设计模式相关资料整理
 * [猿题库 iOS 客户端架构设计](http://gracelancy.com/blog/2016/01/06/ape-ios-arch-design/)
 * [QCon旧金山演讲总结：阿里无线技术架构演进](http://www.infoq.com/cn/articles/alibaba-mobile-infrastructure)
 
-#### 组件化设计 - casatwy VS Limboy
+#### 组件化设计
 * [蘑菇街 App 的组件化之路](http://limboy.me/tech/2016/03/10/mgj-components.html)
 * [蘑菇街 App 的组件化之路·续](http://limboy.me/tech/2016/03/14/mgj-components-continued.html)
 * [iOS应用架构谈（五）：组件化方案](http://casatwy.com/iOS-Modulization.html)
@@ -63,6 +63,7 @@ iOS 设计模式相关资料整理
 * [iOS App组件化开发实践](http://www.infoq.com/cn/articles/ios-app-component-development-practice)
 * [58 同城 iOS 客户端组件化演变历程](http://mp.weixin.qq.com/s/PbOh-l0E4bD3HoKj0GzYWQ)
 * [手机淘宝客户端架构探索实践](https://yq.aliyun.com/articles/129)
+* [京东iOS客户端组件管理实践](http://www.infoq.com/cn/articles/jd-ios-component-management?utm_source=articles_about_mobile&utm_medium=link&utm_campaign=mobile)
 
 #### IM架构梳理
 * [IM架构梳理](http://blog.csdn.net/skymingst/article/details/49448717)
