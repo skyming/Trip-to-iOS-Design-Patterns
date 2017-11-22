@@ -3,6 +3,11 @@
 iOS 设计模式相关资料整理
 随着写代码时间变长，业务逻辑越来越复杂，项目就会变的越来越臃肿，业务的拓展、Bug Fix将会越来越难进展。接着进行的就是重构工作，对重构而已，那设计模式、架构、当前的业务情况、将来可能遇到的需求 将是下一步的思考。本文将从设计模式、架构、实践三个方面梳理 iOS 架构设计。
 
+#### 必读文章
+* [iOS Design Patterns](https://www.raywenderlich.com/46988/ios-design-patterns) 
+> 文章从 iOS 视角解读了常用的几种设计模式，并给出了代码示例，非常推荐看英文原文，作为设计模式开篇也比较合适，实战性也强。
+> 翻译 [一](http://blog.jobbole.com/48115/) [二](http://blog.jobbole.com/48166/) [三](http://blog.jobbole.com/48254/) [四](http://blog.jobbole.com/48179/)
+
 #### 设计模式 经典图书系列
 * 《Head First设计模式》 [纸质版-亚马逊](https://www.amazon.cn/Head-First%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%BC%97%E9%87%8C%E6%9B%BC/dp/B0011FBU34/ref=sr_1_1?ie=UTF8&qid=1464418055&sr=8-1&keywords=head+first)  [电子版-PDF-CSDN](http://download.csdn.net/detail/kiratianyi/7471435)
 
@@ -23,16 +28,6 @@ iOS 设计模式相关资料整理
 > 推荐指数4颗星，讲了不少UML的相关知识，能更好的理解设计模式中时序图等Mac下的UML工具推荐 StarUML ,做的也不错。
 
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
-
-#### 伯乐在线-翻译Ray Wenderlich文章：
-
-* [iOS设计模式之一：MVC模式和单例模式](http://blog.jobbole.com/48115/)
-* [iOS设计模式之二：外观模式和装饰器模式](http://blog.jobbole.com/48166/)
-* [iOS设计模式之三：适配器模式和观察者模式](http://blog.jobbole.com/48254/)
-* [iOS设计模式之四：备忘录模式和命令模式](http://blog.jobbole.com/48179/)
-* [iOS设计模式之观察者模式](http://blog.jobbole.com/55505/)
-* [iOS设计模式反思之单例模式的进化-非翻译](http://blog.jobbole.com/56439/)
-* [关于 23 种设计模式的有趣见解-非翻译](http://blog.jobbole.com/20496/)
 
 #### InfoQ - iOS应用架构谈 - 推荐指数 5星
 * [iOS应用架构谈（一）：架构设计的方法论](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
@@ -92,6 +87,9 @@ iOS 设计模式相关资料整理
 * [移动App架构设计](https://github.com/uxyheaven/NativeAppFrameworkDesign)
 * [探索 Swift 中的 MVC-N 模式](https://realm.io/cn/news/slug-marcus-zarra-exploring-mvcn-swift/?utm_source=tuicool&utm_medium=referral)
 * [MVVMFramework](https://github.com/lovemo/MVVMFramework)
+* [iOS设计模式之观察者模式](http://blog.jobbole.com/55505/)
+* [iOS设计模式反思之单例模式的进化-非翻译](http://blog.jobbole.com/56439/)
+* [关于 23 种设计模式的有趣见解-非翻译](http://blog.jobbole.com/20496/)
 
 
 
