@@ -60,6 +60,7 @@ iOS 设计模式相关资料整理
 * [手机淘宝客户端架构探索实践](https://yq.aliyun.com/articles/129)
 * [京东iOS客户端组件管理实践](http://www.infoq.com/cn/articles/jd-ios-component-management?utm_source=articles_about_mobile&utm_medium=link&utm_campaign=mobile)
 * [iOS 组件化 —— 路由设计思路分析](https://www.jianshu.com/p/76da56b3bd55)
+* [组件化架构漫谈](https://www.jianshu.com/p/67a6004f6930)
 
 #### IM架构梳理
 * [IM架构梳理](http://blog.csdn.net/skymingst/article/details/49448717)
