@@ -63,6 +63,7 @@ iOS 设计模式相关资料整理
 * [组件化架构漫谈](https://www.jianshu.com/p/67a6004f6930)
 
 #### IM架构梳理
+* [IM 开发者社区](http://www.52im.net/forum.php?mod=collection&op=all)
 * [IM架构梳理](http://blog.csdn.net/skymingst/article/details/49448717)
 * [58到家消息系统设计与开发实践](https://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=402441278&idx=1&sn=af82781e3e6b694d82ac8454dbe3ae67&scene=0&key=710a5d99946419d9ebeb6a76103f5b3c9a2a96d61dd040e7eaacca508005e842656a35d9b9664ec603be12ce0c3f25c7&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
 * [im协议设计选型（上）](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=205775353&idx=1&sn=ecc1f32ec9585f2c7672a27dfbc726ca&scene=1&srcid=0317WNL1c9K3dhx6rqsrhXL5&key=710a5d99946419d970963f96a056ab527d7e0a5ec70e2094cbb32922797076e77c9282e8ead417792c53ca5798beac51&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
