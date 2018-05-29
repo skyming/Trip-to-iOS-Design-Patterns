@@ -46,6 +46,7 @@ iOS 设计模式相关资料整理
 * [Service Oriented 的 iOS 应用架构](http://tech.glowing.com/cn/service-oriented-ios-architecture/)
 * [猿题库 iOS 客户端架构设计](http://gracelancy.com/blog/2016/01/06/ape-ios-arch-design/)
 * [QCon旧金山演讲总结：阿里无线技术架构演进](http://www.infoq.com/cn/articles/alibaba-mobile-infrastructure)
+* [斗米客户端的架构思想](http://blog.linzihong.com/2017/07/27/framework/)
 
 #### 组件化设计
 * [蘑菇街 App 的组件化之路](http://limboy.me/tech/2016/03/10/mgj-components.html)
